@@ -13,7 +13,9 @@ A digital dashboard for the solo playlist building game *VOID 1680 AM* with the 
 - **Dual Card Decks**:
   - *Caller Deck*: Draws face cards (J, Q, K, A) from all suits
   - *Playlist Deck*: Draws numbered cards (2-10) with suit filtering
-- **Dice Rolling**: Six-sided die (D6) with animated result display
+- **Subject**: Shows results for what the caller is calling in for
+- **Request**: Shows what the caller is requesting
+- **Recallers**: If the caller is calling back, what for and what iteration is their call
 - **Block Selection**: Filter Playlist deck by suit (♣ ♦ ♠ ♥) with visual highlighting
 
 ### Dynamic Interface
@@ -29,12 +31,12 @@ A digital dashboard for the solo playlist building game *VOID 1680 AM* with the 
 
 ## Installation
 
-1. **Recommended**: Download `voidAM.exe` (Windows executable)
-2. **Alternative**: Run `voidAM.py` with Python 3.x and Pygame installed
+1. **Recommended**: Download `void1680amdashboard.exe` (Windows executable)
+2. **Alternative**: Run `void1680amdashboard.py` with Python 3.12
 
 ## Usage Notes
 
-- A log file `VOID_1680AM_LOG.txt` will be automatically generated in the program directory
+- A log file `VOID_1680_AM_LOG.txt` will be automatically generated in the program directory
 - Left mouse click to interact with buttons and switch
 - Use mouse wheel to scroll through history
 
@@ -42,7 +44,7 @@ A digital dashboard for the solo playlist building game *VOID 1680 AM* with the 
 
 - Python/Pygame implementation
 - Executable file made with PyInstaller
-- 600x325px layout
+- 1110x480px layout
 - Persistent history storage
 
 ## Credits
@@ -52,3 +54,4 @@ A digital dashboard for the solo playlist building game *VOID 1680 AM* with the 
 
 Created: 14 APR 2025  
 Uploaded to GitHub: 16 APR 2025
+v2 Update & Upload: 30 APR 2025
