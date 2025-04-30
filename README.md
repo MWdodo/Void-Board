@@ -2,7 +2,7 @@
 
 A digital dashboard for the solo playlist building game *VOID 1680 AM* with the *Voices of the Void* expansion.
 
-[on air](https://github.com/user-attachments/assets/ab8f6ca8-f8c5-4eef-a98b-25edb50d93ac)
+![on air](https://github.com/user-attachments/assets/ab8f6ca8-f8c5-4eef-a98b-25edb50d93ac)
 ![off air](https://github.com/user-attachments/assets/7bcd14f1-d674-4b6a-8d63-ebfd8447b968)
 ![log](https://github.com/user-attachments/assets/cd3b1ba4-b98a-4452-a84d-38386d7b2125)
 
